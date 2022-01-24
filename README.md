@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynep-dmrl&show_icons=true&theme=radical" />
   </div>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynep-dmrl&show_icons=true&theme=radical&locale=en&layout=compact" />
+  </div>
 </div>
 
 <!--Languages-->
