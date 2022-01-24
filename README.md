@@ -38,9 +38,8 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<!--Languages-->
-![Zeynep's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=zeynep-dmrl&show_icons=true&theme=radical&locale=en&layout=compact)
-
-
- <hr />
-<div  align="center"> <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif" /></div>
+<hr />
+<!--Snake Game-->
+<div  align="center"> 
+  <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif" />
+</div>
