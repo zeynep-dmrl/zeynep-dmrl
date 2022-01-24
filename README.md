@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/zeynepdemirel081@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zeynepdemirel081@gmail.com)](mailto:zeynepdemirel081@gmail.com)
 
 </div>
-<hr/>
 
 <!--Statistics-->
 <div align="center">
@@ -47,5 +46,5 @@ Here are some ideas to get you started:
 <hr />
 <!--Snake Game-->
 <div  align="center"> 
-  <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif&color=black" />
+  <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif" />
 </div>
