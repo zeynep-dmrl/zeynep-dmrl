@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--Connect-->
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/zeynep-demirel/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
+<a href = 'https://www.github.com/zeynep-dmrl'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
+<a href="mailto: zeynepdemirel081@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<!--Statistics-->
+<div align="center">
+  <div align="center">
+<a href="https://github.com/zeynep-dmrl/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=zeynep-dmrl&color=f75c7e">
+</a>
+<a href="https://github.com/zeynep-dmrl?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/zeynep-dmrl?style=flat-square&color=f75c7e">
+</a>
+  </div>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
+</div>
+ </div>
+
+<!--Languages-->
+### Languages
+
+![Zeynep's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=zeynep-dmrl&show_icons=true&theme=radical&locale=en&layout=compact)
+
+![Profile views](https://gpvc.arturio.dev/zeynep-dmrl)
+[![GitHub followers](https://img.shields.io/github/followers/zeynep-dmrl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/zeynep-dmrl?tab=followers)
+
+ <hr />
+<div  align="center"> <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif" /></div>
