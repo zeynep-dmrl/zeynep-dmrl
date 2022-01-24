@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <!--Connect-->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div align="center">
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-demirel)
-[![Mail Badge](https://img.shields.io/badge/zeynepdemirel081@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zeynepdemirel081@gmail.com)](mailto:develop.fatihes@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/zeynepdemirel081@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zeynepdemirel081@gmail.com)](mailto:zeynepdemirel081@gmail.com)
+
 </div>
 
 <!--Statistics-->
