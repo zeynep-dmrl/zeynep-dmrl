@@ -31,13 +31,11 @@ Here are some ideas to get you started:
 </a>
   </div>
   <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynep-dmrl&show_icons=true&theme=radical" />
   </div>
 </div>
 
 <!--Languages-->
-### Languages
-
 ![Zeynep's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=zeynep-dmrl&show_icons=true&theme=radical&locale=en&layout=compact)
 
 
