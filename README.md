@@ -30,18 +30,16 @@ Here are some ideas to get you started:
     <img align="center"  src="https://img.shields.io/github/followers/zeynep-dmrl?style=flat-square&color=f75c7e">
 </a>
   </div>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
+  <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekrblt&show_icons=true&theme=radical" />
+  </div>
 </div>
- </div>
 
 <!--Languages-->
 ### Languages
 
 ![Zeynep's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=zeynep-dmrl&show_icons=true&theme=radical&locale=en&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/zeynep-dmrl)
-[![GitHub followers](https://img.shields.io/github/followers/zeynep-dmrl.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/zeynep-dmrl?tab=followers)
 
  <hr />
 <div  align="center"> <img src="https://github.com/zeynep-dmrl/zeynep-dmrl/blob/output/github-contribution-grid-snake.gif" /></div>
